@@ -40,6 +40,9 @@ jspm_packages
 # OSX
 # =========================
 
+
+#IDE
+
 .DS_Store
 .AppleDouble
 .LSOverride

@@ -1,0 +1,16 @@
+{
+  "name": "SquelExample",
+  "version": "1.0.0",
+  "keywords": [
+    "util",
+    "functional",
+    "server",
+    "client",
+    "browser"
+  ],
+  "author": "AlphaWolf",
+  "contributors": [],
+  "dependencies": {
+    "squel": "^5.7.0"
+  }
+}
